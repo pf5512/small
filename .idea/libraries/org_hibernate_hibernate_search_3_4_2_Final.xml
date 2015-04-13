@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="org.hibernate:hibernate-search:3.4.2.Final" type="repository">
+    <properties maven-id="org.hibernate:hibernate-search:3.4.2.Final" />
+    <CLASSES>
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/hibernate/hibernate-search/3.4.2.Final/hibernate-search-3.4.2.Final.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/hibernate/hibernate-search-analyzers/3.4.2.Final/hibernate-search-analyzers-3.4.2.Final.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/lucene/lucene-core/3.1.0/lucene-core-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/lucene/lucene-analyzers/3.1.0/lucene-analyzers-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/solr/solr-analysis-extras/3.1.0/solr-analysis-extras-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/solr/solr-core/3.1.0/solr-core-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/solr/solr-solrj/3.1.0/solr-solrj-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/commons-io/commons-io/1.4/commons-io-1.4.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/lucene/lucene-highlighter/3.1.0/lucene-highlighter-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/lucene/lucene-memory/3.1.0/lucene-memory-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/lucene/lucene-misc/3.1.0/lucene-misc-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/lucene/lucene-spatial/3.1.0/lucene-spatial-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/lucene/lucene-spellchecker/3.1.0/lucene-spellchecker-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/solr/solr-commons-csv/3.1.0/solr-commons-csv-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/lucene/lucene-smartcn/3.1.0/lucene-smartcn-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/apache/lucene/lucene-stempel/3.1.0/lucene-stempel-3.1.0.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/hibernate/hibernate-core/3.6.10.Final/hibernate-core-3.6.10.Final.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/antlr/antlr/2.7.6/antlr-2.7.6.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/commons-collections/commons-collections/3.1/commons-collections-3.1.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/hibernate/hibernate-commons-annotations/3.2.0.Final/hibernate-commons-annotations-3.2.0.Final.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/javax/transaction/jta/1.1/jta-1.1.jar!/" />
+      <root url="jar://D:/亚信工作空间/项目源码/repository/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

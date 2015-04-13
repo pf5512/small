@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.hibernate:hibernate:3.6.10">
+    <CLASSES>
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/hibernate/hibernate/3.6.10/hibernate-3.6.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/hibernate/hibernate/3.6.10/hibernate-3.6.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/亚信工作空间/项目源码/repository/org/hibernate/hibernate/3.6.10/hibernate-3.6.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IKAnalyzer-3.2.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/IKAnalyzer-3.2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

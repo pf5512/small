@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.octo.captcha:jcaptcha-api:1.0" type="repository">
+    <properties maven-id="com.octo.captcha:jcaptcha-api:1.0" />
+    <CLASSES>
+      <root url="jar://D:/亚信工作空间/项目源码/repository/com/octo/captcha/jcaptcha-api/1.0/jcaptcha-api-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
